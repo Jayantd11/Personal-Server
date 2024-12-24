@@ -39,13 +39,15 @@ DESIGN CONSIDERATIONS
 - **Compliance with HTTP Standards:** Ensured that the server adheres to HTTP/1.0 and HTTP/1.1 standards, providing appropriate responses and headers based on client requests. This guarantees compatibility with a wide range of clients and browsers.
 - **Error Handling and Logging:** Implemented comprehensive error handling to provide meaningful feedback to clients and facilitate debugging. Logging mechanisms can be integrated to monitor server activities and diagnose issues effectively.
 
-CONCLUSION
-
-The Personal Server project offers a robust and secure HTTP server implementation tailored for educational purposes in the CS 3214 course. By integrating advanced data structures like Buffer Management and JWT Handling, it ensures efficient data management and secure user interactions. The emphasis on security, modularity, and performance makes it not only a valuable learning tool but also a solid foundation for further development and real-world application. Whether used for coursework, experimentation, or as a stepping stone for more complex server projects, Personal Server demonstrates the essential principles of reliable and secure server design.
-
 REPOSITORY STRUCTURE
 
 - **src:** Contains the base code's source files.
 - **tests:** Contains unit tests, performance tests, and associated files.
 - **svelte-app:** Contains a JavaScript web app.
 - **sfi:** Contains documentation for the 'server fuzzing interface'.
+  
+CONCLUSION
+
+The Personal Server project offers a robust and secure HTTP server implementation tailored for educational purposes in the CS 3214 course. By integrating advanced data structures like Buffer Management and JWT Handling, it ensures efficient data management and secure user interactions. The emphasis on security, modularity, and performance makes it not only a valuable learning tool but also a solid foundation for further development and real-world application. Whether used for coursework, experimentation, or as a stepping stone for more complex server projects, Personal Server demonstrates the essential principles of reliable and secure server design.
+
+
